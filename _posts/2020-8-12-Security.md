@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security+: Starting out with Studying!
+title: Security+, Starting out with Studying!
 ---
 
 I've watched a few videos on how to start with a career in Cyber Security, and there's a pretty heavy emphasis on getting certificates. However it seems that there's only
